@@ -1,5 +1,3 @@
-Output:
-
 # SimpleCryptoEngine
 
 A minimal C++ program that simulates basic cryptographic operations including bit-level permutation, S-box substitution, and swapping of data halves. This serves as a foundational demonstration of core concepts used in symmetric encryption algorithms.
